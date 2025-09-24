@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cc778a671eac2ba1ec70bf9398b2e1bf",
+    "content-hash": "f008f704483472b237031d4fa389cb70",
     "packages": [
         {
             "name": "jdenticon/jdenticon",
@@ -57,16 +57,16 @@
         },
         {
             "name": "mlocati/ip-lib",
-            "version": "1.20.0",
+            "version": "1.21.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mlocati/ip-lib.git",
-                "reference": "fd45fc3bf08ed6c7e665e2e70562082ac954afd4"
+                "reference": "b5d38cdcbfc1516604d821a1f3f4a1638f327267"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mlocati/ip-lib/zipball/fd45fc3bf08ed6c7e665e2e70562082ac954afd4",
-                "reference": "fd45fc3bf08ed6c7e665e2e70562082ac954afd4",
+                "url": "https://api.github.com/repos/mlocati/ip-lib/zipball/b5d38cdcbfc1516604d821a1f3f4a1638f327267",
+                "reference": "b5d38cdcbfc1516604d821a1f3f4a1638f327267",
                 "shasum": ""
             },
             "require": {
@@ -112,7 +112,7 @@
             ],
             "support": {
                 "issues": "https://github.com/mlocati/ip-lib/issues",
-                "source": "https://github.com/mlocati/ip-lib/tree/1.20.0"
+                "source": "https://github.com/mlocati/ip-lib/tree/1.21.0"
             },
             "funding": [
                 {
@@ -124,7 +124,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2025-02-04T17:30:58+00:00"
+            "time": "2025-09-24T13:58:50+00:00"
         },
         {
             "name": "symfony/polyfill-php80",
@@ -2017,15 +2017,15 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
         "php": "^7.4 || ^8.0"
     },
-    "platform-dev": [],
+    "platform-dev": {},
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
